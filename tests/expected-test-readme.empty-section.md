@@ -181,6 +181,7 @@ This description starts in a new line instead of the same line of description st
 | `arrayEmptyModifier`                                  | Test empty array modifier                                                                                                      | `[]`         |
 | `annotations.prometheus.io/scrape`                    | A Prometheus annotation                                                                                                        | `true`       |
 | `weird.key.with.weird.format/and.object`              | A weird key with weird format and an object inside.                                                                            | `asValue`    |
+| `oneOf`                                               | One of the values                                                                                                              | `""`         |
 
 ## Configuration and installation details
 

@@ -539,3 +539,6 @@ weird.key:
   with:
     weird.format/and:
       object: asValue
+
+## @param oneOf [string,enum: a;b] One of the values
+oneOf: b

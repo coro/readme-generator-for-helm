@@ -15,10 +15,10 @@
       "object": "object",
       "string": "string",
       "nullable": "nullable",
-      "default": "default"
+      "default": "default",
+      "enum": "enum"
     },
     "regexp": {
       "paramsSectionTitle": "New Parameters Section"
     }
   }
-  

@@ -715,6 +715,15 @@
             "items": {
                 "type": "string"
             }
+        },
+        "oneOf": {
+            "type": "string",
+            "description": "One of the values",
+            "default": "\"\"",
+            "enum": [
+                "a",
+                "b"
+            ]
         }
     }
 }

@@ -173,6 +173,8 @@ The configuration file has the following structure:
     "object": "object"                           <-- Modifier that indicates an object type
     "string": "string"                           <-- Modifier that indicates a string type
     "nullable": "nullable"                       <-- Modifier that indicates a parameter that can be set to null
+    "default": "default"                         <-- Modifier that indicates the parameter's default value
+    "enum": "enum"                               <-- Modifier that indicates the limited set of values the parameter can take
   },
   "regexp": {
     "paramsSectionTitle": "Parameters"           <-- Title of the parameters section to replace in the README.md
